@@ -1,1 +1,1 @@
-# AI-ML-PROJECTS
+# E-Commerce Domain
